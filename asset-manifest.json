@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/WyattTech/reactwebpage/static/css/main.41cae9ff.chunk.css",
+    "main.js": "/WyattTech/reactwebpage/static/js/main.dcf1db61.chunk.js",
+    "main.js.map": "/WyattTech/reactwebpage/static/js/main.dcf1db61.chunk.js.map",
+    "runtime-main.js": "/WyattTech/reactwebpage/static/js/runtime-main.402ebe3c.js",
+    "runtime-main.js.map": "/WyattTech/reactwebpage/static/js/runtime-main.402ebe3c.js.map",
+    "static/js/2.26358f1b.chunk.js": "/WyattTech/reactwebpage/static/js/2.26358f1b.chunk.js",
+    "static/js/2.26358f1b.chunk.js.map": "/WyattTech/reactwebpage/static/js/2.26358f1b.chunk.js.map",
+    "static/js/3.1a096c79.chunk.js": "/WyattTech/reactwebpage/static/js/3.1a096c79.chunk.js",
+    "static/js/3.1a096c79.chunk.js.map": "/WyattTech/reactwebpage/static/js/3.1a096c79.chunk.js.map",
+    "index.html": "/WyattTech/reactwebpage/index.html",
+    "static/css/main.41cae9ff.chunk.css.map": "/WyattTech/reactwebpage/static/css/main.41cae9ff.chunk.css.map",
+    "static/js/2.26358f1b.chunk.js.LICENSE.txt": "/WyattTech/reactwebpage/static/js/2.26358f1b.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/WyattTech/reactwebpage/static/media/bg-intro-mobile (1).02ce3982.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.402ebe3c.js",
+    "static/js/2.26358f1b.chunk.js",
+    "static/css/main.41cae9ff.chunk.css",
+    "static/js/main.dcf1db61.chunk.js"
+  ]
+}
